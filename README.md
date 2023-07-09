@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 ✍️ &nbsp;In my free time, I cycle, rock climb and solve internet puzzles.\
 💬 &nbsp;Feel free to reach out to me with any inquiries, ideas or suggestions.\
 ✉️ &nbsp;You can shoot me an email at finlay.business@protonmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://rootfinlay.github.io/CV.pdf) for more details about me. I'm open to feedback and suggestions!
 
 ### 🛠 &nbsp;Tech Stack
 
