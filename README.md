@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 🎓 &nbsp;I'm currently studying foundation cryptography to create a custom public and private key encryption system.\
 ✍️ &nbsp;In my free time, I cycle, rock climb and solve internet puzzles.\
 💬 &nbsp;Feel free to reach out to me with any inquiries, ideas or suggestions.\
-✉️ &nbsp;You can shoot me an email at finlay.business@protonmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at finlay.business@protonmail.com! I'll try to respond as soon as I can.
 
 ### 🛠 &nbsp;Tech Stack
 
