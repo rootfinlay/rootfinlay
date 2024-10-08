@@ -23,7 +23,10 @@ Here are some ideas to get you started:
 ✉️ &nbsp;You can shoot me an email at finlay.business@protonmail.com! I'll try to respond as soon as I can.
 
 Permanent backup of my projects can be found at https://git.rootfinlay.co.uk.
-Permanent homepage of my portfolio can be found at https://rootfinlay.co.uk
+
+Permanent homepage of my portfolio can be found at https://rootfinlay.co.uk.
+
+Bug bounty (not rewarded) can be found at https://rootfinlay.co.uk/bounty
 
 ### 🛠 &nbsp;Tech Stack
 
