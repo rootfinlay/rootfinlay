@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 💬 &nbsp;Feel free to reach out to me with any inquiries, ideas or suggestions.\
 ✉️ &nbsp;You can shoot me an email at finlay.business@protonmail.com! I'll try to respond as soon as I can.
 
+Permanent backup of my projects can be found at https://git.rootfinlay.co.uk.
+Permanent homepage of my portfolio can be found at https://rootfinlay.co.uk
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
